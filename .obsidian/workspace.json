@@ -11,15 +11,32 @@
             "id": "e47444d7048de754",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "96bb3d23815d6cab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/第3章  F计算 .pdf"
+              }
+            }
+          },
+          {
+            "id": "861d96ac02d2ba33",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-18 14.35.34.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4f614e05de814a08",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Excalidraw/Drawing 2024-05-18 14.35.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Excalidraw/Drawing 2024-05-18 14.35.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Excalidraw/Drawing 2024-05-18 14.35.34.excalidraw.md"
               }
             }
           },
@@ -157,11 +174,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e47444d7048de754",
+  "active": "861d96ac02d2ba33",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-17 22.32.56.excalidraw.md",
-    "test.md",
+    "Excalidraw/第4章 连杆机构.pdf",
+    "Excalidraw/第3章  F计算 .pdf",
+    "Excalidraw/Drawing 2024-05-18 14.35.34.excalidraw.md",
     "Excalidraw",
+    "机械设计基础/Drawing 2024-05-18 14.25.55.excalidraw.md",
+    "未命名.md",
+    "机械设计基础",
+    "test.md",
+    "机械设备基础",
+    "Excalidraw/Drawing 2024-05-17 22.32.56.excalidraw.md",
     "test"
   ]
 }
